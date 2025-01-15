@@ -15,7 +15,9 @@ npx create-react-app@3.4.1 my-app --scripts-version=@skyscanner/backpack-react-s
   </tr>
   <tr>
     <td align="center">
+
       ![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=radical)
+
     </td>
     <td align="center">
       ![Sudhanshu Ambastha's Leetcode Stats](https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn)
